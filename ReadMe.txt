@@ -17,7 +17,7 @@ To run this system, there are two prerequisites:
 
 1) You need to download the different files with images of the toys (Toyimg_appendix_x)s, available in the same GitHub Repository. Add the contents to the folder "toyimg" in this project.
 
-2) This web application makes use of Bootstrap, so an internet connection is required to get the correct style for the eb pages.
+2) This web application makes use of Bootstrap, so an internet connection is required to get the correct style for the web pages.
 
 Once you have put the files together, run startpage.html.
 
